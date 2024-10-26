@@ -1,0 +1,10 @@
+ollama
+chromadb
+pdfplumber
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+unstructured
+unstructured[all-docs]
+onnx==1.16.1
