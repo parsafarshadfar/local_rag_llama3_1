@@ -17,11 +17,14 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 
 ## Installation
 
-Install the required dependencies from the `requirements.txt` file:
+1. **install the Ollama framework**
+   
+   https://ollama.com/download
 
-```bash
-pip install -r requirements.txt
-```
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Key Dependencies
 
