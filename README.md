@@ -11,7 +11,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 - **LangChain Framework**: Facilitates the RAG pipeline with modules for text splitting, embeddings, and retrieval.
 
 ## Prerequisites
-
+ 
 - **Python** 3.8 or higher
 - Jupyter Notebook environment for running `local_RAG.ipynb`
 
