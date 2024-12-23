@@ -17,7 +17,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 
 ## Installation
 
-1. **install the Ollama framework** 
+1. **install the Ollama framework**  
    
    https://ollama.com/download
 
@@ -52,4 +52,3 @@ This project uses the Llama 3.1 model with the `ollama` framework for local infe
 ## Troubleshooting
 
 - **Memory Requirements**: Running large models locally may require considerable memory. Close other applications if you encounter resource limitations.
-
