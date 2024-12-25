@@ -51,4 +51,4 @@ This project uses the Llama 3.1 model with the `ollama` framework for local infe
 
 ## Troubleshooting
 
-- **Memory Requirements**: Running large models locally may require considerable memory. Close other applications if you encounter resource limitations.
+- **Memory Requirements**: Running large models locally may require considerable memory. Close other applications if you encounter resource limitations. 
