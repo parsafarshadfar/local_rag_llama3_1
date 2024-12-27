@@ -24,7 +24,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
-   ```
+   ``` 
 
 ### Key Dependencies
 
