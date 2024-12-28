@@ -2,7 +2,7 @@
 # Local PDF Retrieval-Augmented Generation (RAG) with Llama 3.1
  
 This project implements a local PDF Retrieval-Augmented Generation (RAG) solution using the Llama 3.1 model on a Jupyter Notebook. The setup enables extracting content from PDFs and querying it using LLM-powered conversational responses, ensuring privacy by running entirely locally without reliance on external APIs or internet connections.
-
+ 
 ## Features
 
 - **PDF Content Extraction**: Efficiently parses PDF files to extract textual content.
