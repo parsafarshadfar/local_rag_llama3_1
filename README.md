@@ -38,7 +38,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 ## Usage
 
 1. **Load the Notebook**: Open `local_RAG.ipynb` in Jupyter Notebook.
-2. **Add PDF Files**: Place the PDF files you want to query in the directory specified in the notebook.
+2. **Add PDF Files**: Place the PDF files you want to query in the directory specified in the notebook. 
 3. **Run the Cells**: Execute the cells in sequence to:
    - Parse and process PDF content.
    - Index the extracted text into a vector database.
