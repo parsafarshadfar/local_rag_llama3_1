@@ -14,7 +14,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
  
 - **Python** 3.8 or higher
 - Jupyter Notebook environment for running `local_RAG.ipynb`
-
+ 
 ## Installation
 
 1. **install the Ollama framework**  
