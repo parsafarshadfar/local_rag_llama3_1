@@ -29,7 +29,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 ### Key Dependencies
 
 - `ollama`: For local model serving.
-- `chromadb`: Vector database for document storage and retrieval.
+- `chromadb`: Vector database for document storage and retrieval. 
 - `pdfplumber`: Parses and extracts text from PDFs.
 - `langchain` modules: Manages the RAG pipeline with tools for text processing and querying.
 - `unstructured[all-docs]`: Processes diverse document formats.
