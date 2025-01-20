@@ -35,7 +35,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 - `unstructured[all-docs]`: Processes diverse document formats.
 - `onnx==1.16.1`: Ensures compatibility with specific model requirements.
 
-## Usage
+## Usage 
 
 1. **Load the Notebook**: Open `local_RAG.ipynb` in Jupyter Notebook.
 2. **Add PDF Files**: Place the PDF files you want to query in the directory specified in the notebook. 
