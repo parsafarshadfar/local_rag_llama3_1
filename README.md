@@ -32,7 +32,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 - `chromadb`: Vector database for document storage and retrieval. 
 - `pdfplumber`: Parses and extracts text from PDFs.
 - `langchain` modules: Manages the RAG pipeline with tools for text processing and querying.
-- `unstructured[all-docs]`: Processes diverse document formats.
+- `unstructured[all-docs]`: Processes diverse document formats. 
 - `onnx==1.16.1`: Ensures compatibility with specific model requirements.
 
 ## Usage 
