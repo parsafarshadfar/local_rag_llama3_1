@@ -9,7 +9,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 - **Local LLM Support**: Utilizes Llama 3.1 as a local language model, ensuring data privacy and control.
 - **ChromaDB Integration**: Provides a vector store for efficient document indexing and similarity search.
 - **LangChain Framework**: Facilitates the RAG pipeline with modules for text splitting, embeddings, and retrieval.
-
+ 
 ## Prerequisites
  
 - **Python** 3.8 or higher
