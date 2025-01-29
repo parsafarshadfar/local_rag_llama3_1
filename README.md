@@ -47,7 +47,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 
 ## Model Information 
 
-This project uses the Llama 3.1 model with the `ollama` framework for local inference. Ensure sufficient computational resources, as running large language models locally may require significant memory and processing power.
+This project uses the Llama 3.1 model with the `ollama` framework for local inference. Ensure sufficient computational resources, as running large language models locally may require significant memory and processing power. 
 
 ## Troubleshooting
 
