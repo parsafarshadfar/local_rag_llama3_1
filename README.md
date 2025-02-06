@@ -18,7 +18,7 @@ This project implements a local PDF Retrieval-Augmented Generation (RAG) solutio
 ## Installation
 
 1. **install the Ollama framework**  
-    
+     
    https://ollama.com/download
  
 2. **Install Dependencies**:
